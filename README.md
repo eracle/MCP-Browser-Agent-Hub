@@ -7,8 +7,6 @@ Protocol (MCP). It focuses on Playwright-based tools grouped into reusable seque
 navigation and data interaction. The system includes a central directory for listing actions by domain (e.g., social
 media platforms like LinkedIn) and supports user-contributed open-source repositories.
 
-This repository contains the whitepaper for MCP Agent Hub, providing details on the architecture, components, and usage.
-
 ## Purpose
 
 The platform aims to simplify browser automation for developers and AI agents by offering a structured way to share,
